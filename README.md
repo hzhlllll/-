@@ -3,10 +3,14 @@
 ### 1.1引言
 > 这是引言
 
--无序列表
-*序列表wu2
+- 无序列表
+* 序列表wu2
 
--[] 任务列表
-···python
+```python
 print('hello world')
- 
+```
+$$
+\frac{\partial f}{\partial x} = 2\sqrt{a}x
+$$ 
+横线 
+---
